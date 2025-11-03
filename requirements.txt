@@ -1,17 +1,4 @@
-# Libraries used by your script (add/remove as needed)
-OneClick
-stdiomask
-user_agent
-instaloader
 requests
+user-agent
 rich
-pyfiglet
-youtube_dl
-pafy
 beautifulsoup4
-bs4
-python-dateutil
-uuid
-argparse
-python-instagram
-generate_user_agent
